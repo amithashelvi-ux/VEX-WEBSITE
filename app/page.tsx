@@ -221,16 +221,8 @@ const handleSubmit = async (
           VEX
         </div>
 
-          <div
-  className="vex-nav-links"
-  style={{
-    display: "flex",
-    visibility: "visible",
-    opacity: 1,
-    gap: "25px",
-    alignItems: "center",
-  }}
->         <a href ="#home">HOME</a>
+          <div className="vex-nav-links">
+       <a href ="#home">HOME</a>
           <a href="#origin">ORIGIN STORY</a>
           <a href="#powers">POWERS & ABILITIES</a>
           <a href="#personality">PERSONALITY</a>
